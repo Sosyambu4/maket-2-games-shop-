@@ -1,6 +1,4 @@
 .header {
-    display: flex;
-    justify-content: space-around;
     background-color: #373A3C;
     height: 60px;
     width: 1400px;
@@ -10,28 +8,40 @@
 
 }
 
-.nav {
-    
+.nav-ul {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+
 }
 
-.Games {
+.nav-li {
+list-style: none;
+padding: 10px;
+}
+
+li.nav-li a {
+text-decoration: none;
+font-size: 16px ;
 color: #FFFFFF;
+
 }
 
-.Consoles {
-color: #FFFFFF80;
-}
-
-.Community {
-    color: #FFFFFF80;
-    ;
+.nav-li1 {
+    list-style: none;
 }
 
 .search {
     height: 38px;
     width: 209.7951202392578px;
     left: 877px;
-    margin-top: 11px;
+   
     border-radius: 4px;
+
+}
+
+.Xbox {
+    color: #FFFFFF80;
+    
 
 }
