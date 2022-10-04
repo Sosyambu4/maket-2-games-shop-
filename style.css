@@ -1,4 +1,37 @@
-.nav{
+.header {
     display: flex;
     justify-content: space-around;
+    background-color: #373A3C;
+    height: 60px;
+    width: 1400px;
+    left: 0px;
+    top: 0px;
+    border-radius: 4px;
+
+}
+
+.nav {
+    
+}
+
+.Games {
+color: #FFFFFF;
+}
+
+.Consoles {
+color: #FFFFFF80;
+}
+
+.Community {
+    color: #FFFFFF80;
+    ;
+}
+
+.search {
+    height: 38px;
+    width: 209.7951202392578px;
+    left: 877px;
+    margin-top: 11px;
+    border-radius: 4px;
+
 }
