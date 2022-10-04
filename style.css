@@ -1,6 +1,6 @@
 body {
     
-    background-image: url(/img/Star-Wars-Battlefront-II-combat\ \(1\).png);
+    
 }
 
 .header {
@@ -58,4 +58,30 @@ li.nav-li a:hover {
 
 img {
     padding-left: 5px;
+}
+
+.content {
+    height: 788px;
+    width: 1401px;
+    left: 0px;
+    top: 3px;
+    border-radius: 0px;
+
+    background-image: url(/img/Star-Wars-Battlefront-II-combat\ \(1\).png);
+}
+
+.button1 {
+    height: 38px;
+    width: 136px;
+    left: 0px;
+    top: 0px;
+    border-radius: 4px;
+}
+
+.button2 {
+    height: 38px;
+    width: 148px;
+    left: 0px;
+    top: 0px;
+    border-radius: 4px;
 }
