@@ -69,6 +69,16 @@ img {
 
     background-image: url(/img/Star-Wars-Battlefront-II-combat\ \(1\).png);
 }
+ h1,h2 {
+    color: aliceblue;
+ }
+ 
+.button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
 
 .button1 {
     height: 38px;
